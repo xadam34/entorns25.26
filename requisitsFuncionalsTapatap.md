@@ -38,3 +38,22 @@ Mestre / educador infantil
 Servei Mèdic
 Administrador de l’associació
 "Públic"
+
+
+
+## Requisits Funcionals RF i Requisits No Funcionals
+
+### RF: 
+El sistema ha de registrar l’historial de temps d’ús del pedaç per dies. 
+L’aplicació ha de notificar quan s’ha complert el temps diari indicat pel metge.
+L’aplicació ha de permetre consultar informes o gràfiques d’evolució de l’ús del pedaç.
+Ha de permetre configurar diferents horaris segons dies de la setmana.
+Ha de permetre afegir notes o comentaris sobre cada sessió.
+L’aplicació ha de ser accessible des de diversos dispositius (com a mínim mòbils).
+
+
+### RNF: 
+L’aplicació ha de ser senzilla i intuïtiva, pensada per a usuaris no tècnics (famílies).
+L’aplicació ha de ser gratuïta per a tots els usuaris.
+L’aplicació ha d’estar disponible en català i castellà, com a mínim.
+El sistema ha de funcionar sense connexió a internet, almenys per les funcionalitats bàsiques (temporitzador i registre).
