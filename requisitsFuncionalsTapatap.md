@@ -57,3 +57,75 @@ L’aplicació ha de ser senzilla i intuïtiva, pensada per a usuaris no tècnic
 L’aplicació ha de ser gratuïta per a tots els usuaris.
 L’aplicació ha d’estar disponible en català i castellà, com a mínim.
 El sistema ha de funcionar sense connexió a internet, almenys per les funcionalitats bàsiques (temporitzador i registre).
+
+
+# Requisits Tècnics tapatpp
+
+## 1. Backend (Servidor i Gestió de Dades)
+
+El backend serà el cor del sistema, encarregat de gestionar dades, usuaris, i la lògica del sistema
+
+
+### a. Requisits del Servidor 
+
+- Allojament: Hosting compartit
+- Base de dades: Mysql o MariaDB
+- Sistema Operatiu: Linux o Windows
+- WebService: Restful llibreria Python Flask
+
+### b. Llenguatge de Programació
+
+
+Python
+
+### c.  Seguretat
+
+- Autenticació i autorització pels usuaris
+- Xifratge de dades HTTPS
+- Còpies de seguretat automàtiques
+
+## 2. Frontend 
+
+### a. Tipus de Clients 
+
+
+- App Mòbil: Android 
+- Consola Python
+- Framework Multiplataforma: Flutter (Apps IOS Android, Web, Desktop)
+
+### b. Emmagazematge local i sincronització 
+
+- Token, Nickname (Guardada localment)
+- Seguretat: HTTPS, autenticació per token
+
+
+### c. Gestió d'accessibilitat 
+
+- Nivells A, AA, AAA d'acessibilitat
+
+
+## 3. Requisits generals infraestructures
+
+- Xarxa: Internet 
+- Espai d'emmagatzematge a Servidor: 500 G.
+- API a tercers: No em fem servir
+
+### a. Gestió d'usuari i autenticació 
+
+- Rols: Tutor i cuidador
+- Seguretat password
+
+
+### b. Requisits d'Infraestructura
+
+
+- Xarxa: Internet 
+- Espai d'emmagatzematge a Servidor: 500 G.
+- API a tercers: No em fem servir
+
+## 4. Requisits del Procés de Desenvolupament
+
+- IDE: VScode Python, Android Studio
+- Control de versions: git, Github
+- Metodologia de desenvolupament: Scrum
+- Testing i proves de qualitat(QA): Test i proves unitàries
