@@ -26,4 +26,4 @@ URL Server desenvolupament: http://localhost.5000/
 
 | URL     | Method | Paràmetres                  | Descripció                  | Output                                                                                             |
 |---------|--------|----------------------------|-----------------------------|--------------------------------------------------------------------------------------------------|
-| /user   | GET    | username <String> obligatori | Retorna informació de l'usuari | {"code_response":1,"descripcio":"","name":"Firulais el Guapo","username":"elfirulais","password":"4321","rol":"tutor","email":"elfirulais@siu.cat"} |
+| /user   | Firulais el Guapo  |elfirulais | password":"4321","rol":"tutor","email":"elfirulais@siu.cat|
