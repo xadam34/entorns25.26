@@ -26,4 +26,4 @@ URL Server desenvolupament: http://localhost.5000/
 
 | URL     | Method | Paràmetres                  | Descripció                  | Output                                                                                             |
 |---------|--------|----------------------------|-----------------------------|--------------------------------------------------------------------------------------------------|
-| /user   | Firulais el Guapo  |elfirulais | password":"4321","rol":"tutor","email":"elfirulais@siu.cat|
+| /user   | Firulais el Guapo  |elfirulais | password":"4321","rol":"tutor","email":"elfirulais@siu.cat| DADA 5|
