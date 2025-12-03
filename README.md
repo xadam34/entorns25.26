@@ -17,3 +17,16 @@ Iteració 5: 13/04 - 29/04 (9h) - Pegat i Testing
 
 https://github.com/user-attachments/assets/cefd1bad-ad4f-4e5b-a0f2-29f606b88355
 
+## End-Points WebService
+
+
+Definició dels En-point del WebService:
+
+URL Server desenvolupament: http://localhost.5000/
+
+| URL | Method | Paràmetres | Descripció | Output | 
+|--------------|------------|------------|---------------------------|
+|/user| GET    | username <String> obligatori | Retornem la informació
+de    | {"code_respone=1, descripcipo="", name="Firulais el Guapo", 
+username="elfirulais", password="4321", rol="tutor", 
+email="elfirulais@siu.cat"} |
