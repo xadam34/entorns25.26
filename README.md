@@ -30,3 +30,10 @@ URL Server desenvolupament: http://localhost.5000/
 de    | {"code_respone=1, descripcipo="", name="Firulais el Guapo", 
 username="elfirulais", password="4321", rol="tutor", 
 email="elfirulais@siu.cat"} |
+
+
+| URL     | Method | Paràmetres                  | Descripció                  | Output |
+|---------|--------|----------------------------|-----------------------------|--------|
+| /user  | GET    | username <String> obligatori | Retornem la informació de l'usuari | ```json
+{"code_respone":1, "descripcio":"", "name":"Firulais el Guapo", "username":"elfirulais", "password":"4321", "rol":"tutor", "email":"elfirulais@siu.cat"}
+``` |
